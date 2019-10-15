@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cooxiecoon.prestonchan.info/sitemap.xml
